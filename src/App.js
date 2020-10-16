@@ -1,12 +1,7 @@
-import React from 'react';
+import React from 'react'
 
-
-function App() {
-  return (
-    <div className="App">
-      
-    </div>
-  );
+const App = () => {
+  return <div>Hello, Redux</div>
 }
 
-export default App;
+export default App
